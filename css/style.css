@@ -1,5 +1,5 @@
 body {
-      position: relative; 
+      position: relative;
   }
 
 #navBar{
@@ -9,10 +9,10 @@ body {
 }
 
 
-  #section1 {padding-top:50px;height:500px;color: black; background-color: white;}
-  #section2 {padding-top:50px;height:500px;color: black; background-color: white;}
-  #section3 {padding-top:50px;height:500px;color: black; background-color: white;}
-  #section4 {padding-top:50px;height:500px;color: black; background-color: white;}
+  #aboutMe {padding-top:50px;height:500px;color: black; background-color: white;}
+  #projects {padding-top:50px;height:500px;color: black; background-color: white;}
+  #resume {padding-top:50px;height:500px;color: black; background-color: white;}
+  #contact {padding-top:50px;height:500px;color: black; background-color: white;}
 
 .footer{
     position: relative;
