@@ -11,8 +11,8 @@ body {
 
   #aboutMe {padding-top:50px;height:500px;color: black; background-color: white;}
   #projects {padding-top:50px;height:500px;color: black; background-color: white;}
-  #resume {padding-top:50px;height:500px;color: black; background-color: white;}
-  #contact {padding-top:50px;height:500px;color: black; background-color: white;}
+  #resume {padding-top:50px;height:700px;color: black; background-color: white;}
+  #contact {padding-top:50px;height:250px;color: black; background-color: white;}
 
 .footer{
     position: relative;
@@ -24,3 +24,16 @@ body {
 .whiteFont{
   color: white !important;
 }
+.fa{
+  margin: 5px 15px 0px 15px;
+  padding: 6px 10px;
+  display: inline-block;
+  -moz-border-radius: 100px;
+  -webkit-border-radius: 100px;
+  border-radius: 100px;
+  -moz-box-shadow: 0px 0px 2px #888;
+  -webkit-box-shadow: 0px 0px 2px #888;
+  box-shadow: 0px 0px 2px #888
+}
+
+.footer{height:70px; color:#d3d3d3;}
